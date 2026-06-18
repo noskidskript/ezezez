@@ -130,7 +130,7 @@ TitleLabel.AnchorPoint = Vector2.new(0.5, 0.5)
 
 TitleLabel.BackgroundTransparency = 1
 
-TitleLabel.Text = "Waiting for authorization..."
+TitleLabel.Text = "Waiting for bypass spawner..."
 
 TitleLabel.TextColor3 = Color3.fromRGB(240, 240, 240)
 
